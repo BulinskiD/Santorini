@@ -1,0 +1,42 @@
+.singlePole{
+    width: 20%;
+    height: 110px;
+    border: 2px solid black;
+    transition: 0.5s all; 
+}
+
+div.active:hover{
+    background-color: grey;
+}
+
+div.active{
+    background-color: lightblue;
+}
+div.current1{
+    background-color: yellow;
+}
+
+div.current2{
+    background-color: blue;
+}
+
+div.current_active:hover{
+    background-color: chartreuse;
+}
+
+
+.level0{
+    
+}
+.level1{
+    
+}
+.level2{
+    
+}
+.level3{
+    
+}
+.level4{
+   
+}
